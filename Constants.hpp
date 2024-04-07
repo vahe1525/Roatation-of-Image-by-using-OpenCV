@@ -1,0 +1,4 @@
+
+#define CAMERAWIDTH   1024 // 1280 // 1920
+#define CAMERAHEIGHT   576 // 720 // 1080
+

@@ -1,0 +1,3 @@
+/home/vahe1525/Documents/Git/RotatingPicture/CMakeFiles/RotateImage.dir
+/home/vahe1525/Documents/Git/RotatingPicture/CMakeFiles/edit_cache.dir
+/home/vahe1525/Documents/Git/RotatingPicture/CMakeFiles/rebuild_cache.dir
